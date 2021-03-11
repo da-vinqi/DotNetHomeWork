@@ -1,0 +1,12 @@
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.exe
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.deps.json
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.runtimeconfig.json
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.runtimeconfig.dev.json
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.dll
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\bin\Debug\netcoreapp3.1\HomeWork2_4.pdb
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.AssemblyInfoInputs.cache
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.AssemblyInfo.cs
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.csproj.CoreCompileInputs.cache
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.dll
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.pdb
+C:\Users\布尔\Desktop\大学\大二下\软件构造基础\编程\HomeWork2_4\obj\Debug\netcoreapp3.1\HomeWork2_4.genruntimeconfig.cache
